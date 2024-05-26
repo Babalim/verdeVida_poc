@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\verdeVida\verdeVida\bin\Debug\verdeVida.exe.config
+C:\Users\Dell\source\repos\verdeVida\verdeVida\bin\Debug\verdeVida.exe
+C:\Users\Dell\source\repos\verdeVida\verdeVida\bin\Debug\verdeVida.pdb
+C:\Users\Dell\source\repos\verdeVida\verdeVida\obj\Debug\verdeVida.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\verdeVida\verdeVida\obj\Debug\verdeVida.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\verdeVida\verdeVida\obj\Debug\verdeVida.exe
+C:\Users\Dell\source\repos\verdeVida\verdeVida\obj\Debug\verdeVida.pdb
